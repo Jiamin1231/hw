@@ -1,7 +1,0 @@
-﻿Name: 陳珈緡
-
-ID: 108820004
-
-How many hours you spend on doing the homework? _____3_____hours
-
-(remember to delete *.exe)
